@@ -42,4 +42,4 @@ The dashboard tracks four headline KPIs:
 - Keep investing in top products like Triple Dazzle Caramel.
 
 ## Preview
-[[Dashboard Preview](https://github.com/Michael-Emmanuel01/Product-Sales-Analysis/blob/main/Product%20dB.jpg)]
+![[Dashboard Preview](Product dB.jpg)(https://github.com/Michael-Emmanuel01/Product-Sales-Analysis/blob/main/Product%20dB.jpg)]
